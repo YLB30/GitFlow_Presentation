@@ -42,3 +42,4 @@ Start: main and develop branches are initialized.
 Develop: Features are branched off develop.
 Merge: Completed features are merged back into develop via Pull Requests for code review.
 Ship: A release branch is pulled from develop, polished, and merged into main (with a version tag) and develop. 
+![ Illustratio ](https://wac-cdn.atlassian.com/dam/jcr:cc0b526e-adb7-4d45-874e-9bcea9898b4a/04%20Hotfix%20branches.svg?cdnVersion=3214)
